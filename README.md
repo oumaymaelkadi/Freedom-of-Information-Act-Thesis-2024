@@ -16,5 +16,7 @@ This thesis aims to improve the machine readability of governmental documents in
 # Note
 In order to be able to run the code, the secret API key should be provided. Running the latest version of the code costs approximately €50 (due to the huge amount of tokens processed by ChatGPT). Therefore the processed data was saved into new datasets that are provided to be able to run the code without costs. 
 
+Do not run all cells, read the headers to avoid unnecessary runningtime!
+
 
    
