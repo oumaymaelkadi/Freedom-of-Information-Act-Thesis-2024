@@ -4,7 +4,7 @@ Code for thesis project Information Studies: Data Science, University of Amsterd
 Student: Oumayma Salma El Kadi
 
 # Data sets
-1. besluitenlijsten.csv provided by Maarten Marx from Woogle 
+1. besluitenlijsten.csv provided by Maarten Marx from [Woogle ](https://woogle.wooverheid.nl/search?q=*)
 2. dutch_wordlist.txt retrieved from https://github.com/OpenTaal/opentaal-wordlist 
 3. DataAfterRepair.csv is the besluitenlijsten.csv right after the reparation by ChatGPT is done
 4. DataFrameRepairFinished.csv is the updated version of the DataAfterRepair.csv where the sentiment analysis is done (provided to save runningtime for the sentiment analysis)
